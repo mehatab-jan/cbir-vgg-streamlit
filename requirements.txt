@@ -1,10 +1,9 @@
-streamlit==1.26.0
-tensorflow==2.10.1
-opencv-python
+streamlit
+tensorflow>=2.10,<2.14; python_version < "3.13"
 numpy
-matplotlib
-scikit-learn
+opencv-python
 Pillow
-rich
+scikit-learn
+matplotlib
 
 
