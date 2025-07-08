@@ -1,9 +1,9 @@
 streamlit
-tensorflow
 numpy
 opencv-python
 Pillow
 scikit-learn
 matplotlib
+
 
 
